@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'jdisfjfjdisg';
+exports.nick = 'S bot re';
 
-exports.pass = '';
+exports.pass = 'rouge020103';
 
 exports.autoReloginDelay = 60 * 1000;
 
@@ -54,7 +54,7 @@ exports.autoReloginDelay = 60 * 1000;
 * Rooms to join
 */
 
-exports.rooms = ['lobby'];
+exports.rooms = 'all';
 
 /*
 * exports.rooms = 'all'; //For joining all rooms
@@ -121,7 +121,7 @@ exports.permissionExceptions = {
 	'challenge': '%',
 	'searchbattle': '~',
 	'tournament': '@',
-	'games': '#'
+	'games': '@'
 };
 
 exports.botguide = "https://github.com/Ecuacion/Pokemon-Showdown-Node-Bot/blob/master/commands/README.md";
@@ -134,7 +134,7 @@ exports.pmhelp = "Hi #USER! I am a robot, please PM another staff member if you 
 * Language configuration
 */
 
-exports.language = 'english';
+exports.language = 'french';
 
 /*
 * Configuration for console messages
