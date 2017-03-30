@@ -11,11 +11,11 @@
 *
 */
 
-exports.server = 'solgaleao-bluerainbow1.rhcloud.com';
+exports.server = '';
 
-exports.port = 8000;
+exports.port = 80;
 
-exports.serverid = 'solgaleolunalayt';
+exports.serverid = '';
 
 exports.autoReconnectDelay = 10 * 1000;
 exports.connectionTimeout = 2 * 60 * 1000;
@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'S bot re';
+exports.nick = '';
 
-exports.pass = 'rouge020103';
+exports.pass = '';
 
 exports.autoReloginDelay = 60 * 1000;
 
